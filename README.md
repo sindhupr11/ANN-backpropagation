@@ -1,6 +1,6 @@
 # ANN-backpropagation
 
-# Description:
+## Description:
 
 This repository implements an Artificial Neural Network (ANN) with backpropagation for predicting diabetes from the data. The code is divided into two Jupyter Notebooks:
 
